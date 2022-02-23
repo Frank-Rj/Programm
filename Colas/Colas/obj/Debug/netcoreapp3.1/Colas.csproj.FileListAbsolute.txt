@@ -1,0 +1,14 @@
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.AssemblyReference.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio\+TAREAS+\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.genruntimeconfig.cache
